@@ -22,6 +22,11 @@
 
 [OneSignal](https://documentation.onesignal.com/docs#section-how-do-i-get-started-) Service for push notifications. Allows you to send global push notifications. Easy to integrate and use.
 
+# Resources
+
+[Official Tutorials by Unity](https://unity3d.com/learn/tutorials)
+[Programming Community Curated Resources for learning Unity](https://hackr.io/tutorials/learn-unity)
+
 # Social networks
 
 [Native share plugin](https://github.com/ChrisMaire/unity-native-sharing) Good tool for implementing share buttons (Share in social networks) You can send screenshots and messages.
